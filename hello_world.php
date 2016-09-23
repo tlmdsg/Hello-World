@@ -1,4 +1,4 @@
 <?
    echo 'hello world';
-   echo 'welcome, my friends';
+   echo 'welcome, friends';
 ?>
